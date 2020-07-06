@@ -1,0 +1,2 @@
+# Startmakinggamestime
+ゲーム制作を始めてからの経過時間
